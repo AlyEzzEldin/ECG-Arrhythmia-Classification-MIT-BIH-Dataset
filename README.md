@@ -112,3 +112,39 @@ The model demonstrates strong discriminative capability between normal and arrhy
 ---
 
 ## Repository Structure
+
+ecg-arrhythmia-classification/
+│
+├── notebooks/ # Exploratory analysis and experiments
+├── src/ # Preprocessing, feature extraction, modeling scripts
+├── models/ # Saved trained models
+├── requirements.txt
+└── README.md
+
+
+---
+
+## Key Skills Demonstrated
+
+- Biomedical signal processing  
+- Digital filtering techniques  
+- Feature engineering from time-series data  
+- Supervised machine learning  
+- Model evaluation and performance visualization  
+- Reproducible experimental workflow  
+
+---
+
+## Future Improvements
+
+- Multi-class arrhythmia classification  
+- Deep learning approaches (1D CNN / LSTM)  
+- Cross-patient validation  
+- Feature importance analysis  
+- Comparison with additional classifiers  
+
+---
+
+## Motivation
+
+This project reflects an interest in applying machine learning techniques to healthcare and biomedical data analysis, with a focus on interpretable and reproducible modeling pipelines.
