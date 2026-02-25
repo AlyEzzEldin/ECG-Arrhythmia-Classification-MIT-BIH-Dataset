@@ -111,19 +111,6 @@ The model demonstrates strong discriminative capability between normal and arrhy
 
 ---
 
-## Repository Structure
-
-ecg-arrhythmia-classification/
-│
-├── notebooks/ # Exploratory analysis and experiments
-├── src/ # Preprocessing, feature extraction, modeling scripts
-├── models/ # Saved trained models
-├── requirements.txt
-└── README.md
-
-
----
-
 ## Key Skills Demonstrated
 
 - Biomedical signal processing  
